@@ -1,0 +1,94 @@
+/*.state-background {
+    background: rgba(0, 0, 0, 0.30) !important;
+}*/
+
+.font-small {
+    font-size: 60px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.font-big {
+    font-size: 85px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.font-very-big {
+
+    font-size: 100px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.font-money {
+  
+    font-size: 195px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.font-produto {
+  
+    font-size: 130px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.font-huge-big {
+    font-size: 140px !important;
+    font-style: bold;
+    color: white;
+    text-shadow:
+       3px 3px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.up {
+    top: -100px;
+}
+
+.down {
+
+}
+
+/*.left {
+    left: -100% !important;
+}
+
+.right {
+    left: 0% !important;
+}*/
